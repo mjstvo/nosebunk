@@ -2,163 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6d7ff-d5fd-4ec7-9640-b74e0f7e6700" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/MDB License.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/free/data/_colors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/free/data/_mixins.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/mdb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/mdb.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Medium.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Medium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Medium.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Thin.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Thin.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/font/roboto/Roboto-Thin.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/lightbox/default-skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/lightbox/default-skin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/lightbox/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/overlays/09.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/svg/arrow_left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/img/svg/arrow_right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/jquery-2.2.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/jquery-2.2.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/jquery-3.1.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/mdb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/mdb.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/tether.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/js/tether.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_cards-basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_carousels-basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_forms-basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_global.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_helpers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_hover-effects.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_navbars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_roboto.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/_waves.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/data/_colors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/data/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/data/_prefixer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/data/_variables-b4.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/free/data/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_cards-basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_carousels-basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_forms-basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_global.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_helpers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_hover-effects.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_navbars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_roboto.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/_waves.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/data/_colors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/data/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/data/_prefixer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/data/_variables-b4.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic-landing-page/sass/mdb/free/data/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mexicana.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/validate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/bugs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/updates" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
@@ -178,8 +21,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="697">
+              <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -208,12 +51,13 @@
         <option value="$PROJECT_DIR$/basic-landing-page/css/style.css" />
         <option value="$PROJECT_DIR$/basic-landing-page/index.html" />
         <option value="$PROJECT_DIR$/header.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/test/gulpfile.js" />
         <option value="$PROJECT_DIR$/test/package.json" />
         <option value="$PROJECT_DIR$/test/scss/_mixins.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/freelancer.min.css" />
       </list>
     </option>
   </component>
@@ -340,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487156117972</updated>
-      <workItem from="1487156119238" duration="5765000" />
+      <workItem from="1487156119238" duration="8157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5765000" />
+    <option name="totallyTimeSpent" value="8157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="784" extended-state="6" />
@@ -459,14 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -591,10 +427,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="77" column="41" lean-forward="false" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="697">
+          <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
           <folding />
         </state>
       </provider>

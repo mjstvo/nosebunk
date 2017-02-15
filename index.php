@@ -26,13 +26,6 @@
 
     }
 
-    #twitter {
-    @include transition(all 0.3 s ease-in-out);
-        text-shadow: -2px 3px 0 #ff00ff, 4px 1px 0 #00ffff, -4px -3px 0 #ffff00;
-        float:left;
-        display: block;
-    }
-
 
     #main {
         height: 90%;
@@ -42,10 +35,6 @@
         justify-content: center;
     }
 
-    #mexicana{
-        height:3em;
-        width:3em;
-    }
 </style>
 
 <div class="container" id="main">
