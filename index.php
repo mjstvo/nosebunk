@@ -44,6 +44,7 @@ include('header.html');
                     <div class="intro-text">
                         <h3>Introducing</h3>
                         <hr class="star-light">
+                        <img src="img/mexicanaVECTOR.png" class="img-responsive" alt="" id="mexicana">
                         <span class="name">MexicanaJones</span>
                         <h3>Street Apparel UK</h3>
                     </div>
@@ -69,7 +70,7 @@ include('header.html');
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -89,7 +90,7 @@ include('header.html');
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -156,7 +157,7 @@ include('header.html');
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Contact Me</h2>
+                    <h2>Give Us A Shout</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -250,12 +251,14 @@ include('header.html');
         </div>
     </footer>
 
+
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
     <div class="scroll-top page-scroll hidden-sm hidden-xs hidden-lg hidden-md">
         <a class="btn btn-primary" href="#page-top">
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
+
 
     <!-- Portfolio Modals -->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
