@@ -10,9 +10,8 @@ include('header.html');
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">bad_habbit</a>
+                <a class="navbar-brand" href="#page-top">Bad_Habbit</a>
             </div>
-
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
@@ -20,7 +19,7 @@ include('header.html');
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="#portfolio">Designs</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">About</a>
@@ -34,18 +33,19 @@ include('header.html');
         </div>
         <!-- /.container-fluid -->
     </nav>
+    <!-- /.navbar -->
 
     <!-- Header -->
     <header>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="" alt="">
+                    <img class="img-responsive" alt="" src="">
                     <div class="intro-text">
-                        <span class="name"><small>introducing</small></span>
-                        <span class="name">mexicanajones</span>
+                        <h3>Introducing</h3>
                         <hr class="star-light">
-                        <span class="skills">SKATE SUPPY UK</span>
+                        <span class="name">MexicanaJones</span>
+                        <h3>Street Apparel UK</h3>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@ include('header.html');
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>Designs</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -137,15 +137,15 @@ include('header.html');
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Bad_Habbit is an Independant UK Streetwear Brand aiming to innovate Street/Skate Apparel with a touch of creative flair, unique design ideas and inventive; outside the box thinking.
+                        <br /><br />
+                        Innovation is the key to the modern market.
+                    </p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
+                    <p>At Bad_Habbit we enforce a rule of faultlessness and delicacy not only in our designs but in the development and manufacture of all of our products.
+                        <br /><br />
+                        We strive to produce all of our apparel right here in the UK with use of the best-quality materials.</p>
                 </div>
             </div>
         </div>
@@ -212,33 +212,27 @@ include('header.html');
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</p>
+                        <h3>Founded 2017</h3>
+                        <p>Carrickfergus,
+                            <br>Northern Ireland</p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Around the Web</h3>
+                        <h3>Catch Us On</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-facebook fa-fw"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-twitter fa-fw"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-instagram fa-fw"></i></a>
                             </li>
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                        <h3>Our Brand</h3>
+                        <p>Bad_Habbit is an Independant UK Streetwear Brand aiming to merge Street/Skate Apparel with rich and unique Street Art.</p>
                     </div>
                 </div>
             </div>
@@ -247,7 +241,9 @@ include('header.html');
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2016
+                        <h6>Copyright &copy; 2017
+                        <br />
+                            <b>www.badhabbitapparel.com</h6></b>
                     </div>
                 </div>
             </div>
@@ -484,23 +480,6 @@ include('header.html');
             </div>
         </div>
     </div>
-
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
-
-    <!-- Theme JavaScript -->
-    <script src="js/freelancer.min.js"></script>
-
-</body>
-
-</html>
+<?php
+include('footer.html');
+?>
