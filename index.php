@@ -12,7 +12,12 @@ include('html/header.html');
 
 ?>
 
-
+<!-- As a link -->
+<nav class="navbar navbar-light bg-faded">
+    <a class="navbar-brand" href="#">
+        <img src="img/mexicana.png" id="mexicana"/>
+    </a>
+</nav>
 
 <div class="container-fluid" id="section1">
         <div class="col-xs-12">
@@ -22,8 +27,9 @@ include('html/header.html');
             </div>
             <ul class="list-inline">
                 <li>
-                    <a href="http://twitter.com/mexicanajones" data-toggle="tooltip" data-placement="top" title="Facebook">
-                        <span class="icon fa fa-twitter" aria-hidden="true"></span>
+                    <a href="http://twitter.com/mexicanajones" id="twitter">
+                        <span class="icon fa fa-twitter" aria-hidden="true">
+                        </span>
                     </a>
                 </li>
             </ul>
