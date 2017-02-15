@@ -15,17 +15,18 @@ include('html/header.html');
 
 
 <div class="container-fluid" id="section1">
-    <div class="row-fluid">
         <div class="col-xs-12">
-            <img src="../img/pinky.png" />
             <h1>mexicanajones.com</h1>
+            <div class="col-xs-12">
             <p>coming soon...</p>
-            <a href="http://twitter.com/mjstvo">
-                <span class="icon fa fa-twitter" aria-hidden="true"></span>
-            </a>
-            <a href="http://instagram.com/mjstvo">
-                <span class="icon fa fa-instagram" aria-hidden="true"></span>
-            </a>
+            </div>
+            <ul class="list-inline">
+                <li>
+                    <a href="http://twitter.com/mexicanajones" data-toggle="tooltip" data-placement="top" title="Facebook">
+                        <span class="icon fa fa-twitter" aria-hidden="true"></span>
+                    </a>
+                </li>
+            </ul>
             </div>
         </div>
     </div>

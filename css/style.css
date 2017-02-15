@@ -7,6 +7,7 @@ p{
     font-family: 'Helvetica Neue', cursive;
     font-size: 1.5em;
     text-shadow: -2px 3px 0 #ff00ff, 4px 1px 0 #00ffff, -4px -3px 0 #ffff00;
+    float:right;
 }
 h1 {
     text-align:center;
@@ -16,7 +17,6 @@ h1 {
     margin: 20px;
     text-shadow: -2px 3px 0 #ff00ff, 4px 1px 0 #00ffff, -4px -3px 0 #ffff00;
     transition: 1s;
-    float:left;
 }
 
 h1:hover{
@@ -28,6 +28,8 @@ h1:hover{
 a {
 @include transition(all 0.3 s ease-in-out);
     text-shadow: -2px 3px 0 #ff00ff, 4px 1px 0 #00ffff, -4px -3px 0 #ffff00;
+    float:left;
+    display: block;
 }
 
 
