@@ -32,6 +32,7 @@ h5 {
     font-weight: 500;
     font-size: 22px;
 }
+
 /* NAVBAR CSS */
 
 .navbar-custom {
@@ -75,7 +76,7 @@ h5 {
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
     color: white;
-    background: #c76c81;
+    background: #ba5e73;
 }
 .navbar-custom .navbar-toggle {
     color: white;
@@ -85,9 +86,9 @@ h5 {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-    background-color: #409abc;
+    background-color: #2a4b7f;
     color: white;
-    border-color: #409abc;
+    border-color: #2a4b7f;
 }
 @media (min-width: 768px) {
     .navbar-custom {
@@ -109,13 +110,15 @@ h5 {
         font-size: 1.5em;
     }
 }
+
 /* HEADER CSS */
 
 header {
     text-align: center;
     background: #ff8da8;
     color: #3263a0;
-    margin-top: 50px;
+    padding-top:50px;
+    height:100vh;
 }
 header .container {
     padding-top: 50px;
@@ -152,6 +155,7 @@ header .introducing .mexicana {
         font-size: 1.75em;
     }
 }
+
 /* HR CSS */
 
 hr.star-light,
@@ -190,6 +194,7 @@ hr.star-primary:after {
 .img-centered {
     margin: 0 auto;
 }
+
 /* SECTION CSS */
 
 section {
@@ -211,6 +216,7 @@ section.success {
         padding-top: 75px;
     }
 }
+
 /* PORTFOLIO CSS */
 
 #portfolio .portfolio-item {
@@ -261,6 +267,7 @@ section.success {
         margin: 0 0 30px;
     }
 }
+
 /* MODAL CSS */
 
 .portfolio-modal .modal-content {
@@ -326,11 +333,13 @@ section.success {
     opacity: 0;
     display: none;
 }
+
 /* FORM CSS */
 
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eeeeee;
 }
+
 /* FLOATING LABEL CSS */
 
 .floating-label-form-group {
@@ -379,6 +388,7 @@ form .row:first-child .floating-label-form-group {
 .floating-label-form-group-with-focus label {
     color: #ff8da8;
 }
+
 /* FOOTER CSS */
 
 footer {
@@ -400,6 +410,7 @@ footer .footer-below {
     color: #ffffff;
 !important
 }
+
 /* BUTTON CSS */
 
 .btn-outline {

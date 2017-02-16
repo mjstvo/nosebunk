@@ -40,11 +40,11 @@ include('header.html');
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-text">
-                        <hr class="star-light"><br />
-                        <span class="name">nosebunk</span>
+                        <hr class="star-light">
+                        <span class="name">NOSEBUNK</span>
                         <h4><b>Street Apparel UK &reg;</b></h4>
-                        <h4><i>- 2017 - </i></h4><br />
-                        <hr class="star-light"><br /><br /><br />
+                        <h4><i>- 2017 -</i></h4><br />
+                        <hr class="star-light">
                     </div>
                 </div>
             </div>
@@ -61,6 +61,7 @@ include('header.html');
                     <br />
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
@@ -182,7 +183,7 @@ include('header.html');
                     <h5><b>NOSEBUNK &reg;</b> is a fresh new Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture.</h5>
 
                     <h5>We enforce a rule of faultlessness and delicacy not only in our designs but in the manufacture of all of our products,
-                        and we strive to produce all of our apparel right here in the UK with use of the with help from local craftesmen and the very best, high quality materials available to us.</h5>
+                        and we strive to produce all of our apparel right here in the UK with the with help from local craftesmen and the very best, high quality materials available to us.</h5>
                 </div>
             </div>
         </div>
