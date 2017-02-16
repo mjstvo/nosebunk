@@ -2,6 +2,8 @@
 include('header.html');
 ?>
 
+<!-- NOSE BUNK // PRIMO -------->
+
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
         <div class="container">
@@ -109,7 +111,7 @@ include('header.html');
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-3">
-                    <h5><b>Nosebunk &reg;</b> is an Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture</h5>
+                    <h5><b>Nosebunk &reg;</b> is a fresh new Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture.</h5>
 
                     <h5>@ <b>Nosebunk &reg;</b> we enforce a rule of faultlessness and delicacy not only in our designs but in the manufacture of all of our products,
                         and we strive to produce all of our apparel right here in the UK with use of the with help from local craftesmen and the very best, high quality materials available to us.</h5>
@@ -206,7 +208,7 @@ include('header.html');
                     <div class="col-lg-12">
                         <h6>Copyright &copy; 2017
                         <br />
-                            <b>www.tampaclothing.com</h6></b>
+                            <b>www.nosebunk.com</h6></b>
                     </div>
                 </div>
             </div>
