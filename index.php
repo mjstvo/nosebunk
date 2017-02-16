@@ -179,9 +179,9 @@ include('header.html');
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2>About Us</h2><br />
-                    <h5><b>Nosebunk &reg;</b> is a fresh new Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture.</h5>
+                    <h5><b>NOSEBUNK &reg;</b> is a fresh new Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture.</h5>
 
-                    <h5>@ <b>Nosebunk &reg;</b> we enforce a rule of faultlessness and delicacy not only in our designs but in the manufacture of all of our products,
+                    <h5>We enforce a rule of faultlessness and delicacy not only in our designs but in the manufacture of all of our products,
                         and we strive to produce all of our apparel right here in the UK with use of the with help from local craftesmen and the very best, high quality materials available to us.</h5>
                 </div>
             </div>
@@ -255,13 +255,13 @@ include('header.html');
                         <h2>Catch Us On</h2>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><span class="fa fa-facebook fa-fw"></span></a>
+                                <a href="https://facebook.com/nosebunkapparel" class="btn-social btn-outline"><span class="fa fa-facebook fa-fw"></span></a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/mexicanajones" class="btn-social btn-outline"><span class="fa fa-twitter fa-fw"></span></a>
+                                <a href="https://twitter.com/nosebunkapparel" class="btn-social btn-outline"><span class="fa fa-twitter fa-fw"></span></a>
                             </li>
                             <li>
-                                <a href="https://instagram.com/bad.habbit" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
+                                <a href="https://instagram.com/nosebunkapparel" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
                             </li>
                         </ul>
                     </div>
@@ -279,13 +279,6 @@ include('header.html');
             </div>
         </div>
     </footer>
-
-<!-- SCROLL TO TOP BUTTON (ONLY VISIBLE ON SMALL SCREENS) -->
-    <div class="scroll-top page-scroll hidden-sm hidden-xs hidden-lg hidden-md">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-    </div>
 
 <?php
 include('footer.html');
