@@ -10,7 +10,7 @@ include('header.html');
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">Bad_Habbit</a>
+                <a class="navbar-brand" href="#page-top"><span class="fa fa-bookmark-o"></span>    nosebunk &reg;</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -40,13 +40,13 @@ include('header.html');
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" alt="" src="">
                     <div class="intro-text">
-                        <h3>Introducing</h3>
-                        <hr class="star-light">
-                        <img src="img/mexicanaVECTOR.png" class="img-responsive" alt="" id="mexicana">
-                        <span class="name">MexicanaJones</span>
-                        <h3>Street Apparel UK</h3>
+                        <hr class="star-light"><br />
+                        <span class="name">nosebunk</span>
+                        <h4><b>Street Apparel UK &reg;</b></h4>
+                        <h4><i>- 2017 - </i></h4><br />
+                        <hr class="star-light"><br />
+                        <br />
                     </div>
                 </div>
             </div>
@@ -60,6 +60,7 @@ include('header.html');
                 <div class="col-lg-12 text-center">
                     <h2>Designs</h2>
                     <hr class="star-primary">
+                    <br />
                 </div>
             </div>
             <div class="row">
@@ -70,7 +71,7 @@ include('header.html');
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/img1.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -80,7 +81,7 @@ include('header.html');
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/img2.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -90,37 +91,7 @@ include('header.html');
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/img3.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -131,22 +102,17 @@ include('header.html');
     <section class="success" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>About</h2>
-                    <hr class="star-light">
+                <div class="col-lg-12">
+                    <h2>About Us</h2>
+                    <br />
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>Bad_Habbit is an Independant UK Streetwear Brand aiming to innovate Street/Skate Apparel with a touch of creative flair, unique design ideas and inventive; outside the box thinking.
-                        <br /><br />
-                        Innovation is the key to the modern market.
-                    </p>
-                </div>
-                <div class="col-lg-4">
-                    <p>At Bad_Habbit we enforce a rule of faultlessness and delicacy not only in our designs but in the development and manufacture of all of our products.
-                        <br /><br />
-                        We strive to produce all of our apparel right here in the UK with use of the best-quality materials.</p>
+                <div class="col-lg-8 col-lg-offset-3">
+                    <h5><b>Nosebunk &reg;</b> is an Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture</h5>
+
+                    <h5>@ <b>Nosebunk &reg;</b> we enforce a rule of faultlessness and delicacy not only in our designs but in the manufacture of all of our products,
+                        and we strive to produce all of our apparel right here in the UK with use of the with help from local craftesmen and the very best, high quality materials available to us.</h5>
                 </div>
             </div>
         </div>
@@ -212,28 +178,24 @@ include('header.html');
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Founded 2017</h3>
-                        <p>Carrickfergus,
-                            <br>Northern Ireland</p>
+                    <div class="footer-col col-md-6">
+                        <h2>Est.<br /></h2>
+                        <h3 style="color: #ffdf43">- 2017 -</h3>
+                        <h3 style="color:#FFFFFF;">Belfast, United Kingdom</h3>
                     </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Catch Us On</h3>
+                    <div class="footer-col col-md-6">
+                        <h2>Catch Us On</h2>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-facebook fa-fw"></i></a>
+                                <a href="#" class="btn-social btn-outline"><span class="fa fa-facebook fa-fw"></span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-twitter fa-fw"></i></a>
+                                <a href="https://twitter.com/mexicanajones" class="btn-social btn-outline"><span class="fa fa-twitter fa-fw"></span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-instagram fa-fw"></i></a>
+                                <a href="https://instagram.com/bad.habbit" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
                             </li>
                         </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Our Brand</h3>
-                        <p>Bad_Habbit is an Independant UK Streetwear Brand aiming to merge Street/Skate Apparel with rich and unique Street Art.</p>
                     </div>
                 </div>
             </div>
@@ -244,7 +206,7 @@ include('header.html');
                     <div class="col-lg-12">
                         <h6>Copyright &copy; 2017
                         <br />
-                            <b>www.badhabbitapparel.com</h6></b>
+                            <b>www.tampaclothing.com</h6></b>
                     </div>
                 </div>
             </div>
@@ -258,6 +220,13 @@ include('header.html');
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
+
+
+
+
+<!-- MODALS ----------------------------------------------------------->
+
+
 
 
     <!-- Portfolio Modals -->
