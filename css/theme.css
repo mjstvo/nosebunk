@@ -196,7 +196,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #3263a0;
+  background-image: url("");
   color: white;
 }
 @media (max-width: 767px) {
@@ -218,7 +218,7 @@ section.success {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: rgba(50, 99, 160, 0.9);
+  background: rgba(255, 223, 67, 0.9);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -299,7 +299,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #ffdf43;
+  color: #ff8da8;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -380,45 +380,45 @@ fieldset[disabled] .btn-primary.active {
   color: #2C3E50;
   background-color: white;
 }
-.btn-success {
+.btn-default {
   color: white;
   background-color: #2a4b7f;
   border-color: #2a4b7f;
   font-weight: 700;
 }
-.btn-success:hover,
-.btn-success:focus,
-.btn-success:active,
-.btn-success.active,
-.open .dropdown-toggle.btn-success {
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
   color: white;
   background-color: #2a4b7f;
   border-color: #2a4b7f;
 }
-.btn-success:active,
-.btn-success.active,
-.open .dropdown-toggle.btn-success {
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
   background-image: none;
 }
-.btn-success.disabled,
-.btn-success[disabled],
-fieldset[disabled] .btn-success,
-.btn-success.disabled:hover,
-.btn-success[disabled]:hover,
-fieldset[disabled] .btn-success:hover,
-.btn-success.disabled:focus,
-.btn-success[disabled]:focus,
-fieldset[disabled] .btn-success:focus,
-.btn-success.disabled:active,
-.btn-success[disabled]:active,
-fieldset[disabled] .btn-success:active,
-.btn-success.disabled.active,
-.btn-success[disabled].active,
-fieldset[disabled] .btn-success.active {
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
   background-color: #2a4b7f;
   border-color: #2a4b7f;
 }
-.btn-success .badge {
+.btn-default .badge {
   color: #2a4b7f;
   background-color: white;
 }
@@ -491,7 +491,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #2C3E50;
+  background-color: #0e141d;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -502,7 +502,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #2C3E50;
+  background-color: #0e141d;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
