@@ -30,13 +30,13 @@ h6 {
 h5 {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 500;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 /* NAVBAR CSS */
 
 .navbar-custom {
-    background: #0e141d;
+    background: #000000;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -117,16 +117,15 @@ header {
     text-align: center;
     background: #ff8da8;
     color: #3263a0;
-    padding-top:50px;
+    padding-top:100px;
+    padding-bottom:70px;
     height:100vh;
+    height:100%;
+    background-size: cover;
 }
 header .container {
     padding-top: 50px;
     padding-bottom: 50px;
-}
-header img {
-    display: block;
-    margin: 0 auto 30px;
 }
 header .intro-text .name {
     display: block;
@@ -136,30 +135,20 @@ header .intro-text .name {
     font-size: 2em;
     color: #ffdf43;
 }
-header .introducing .mexicana {
-    display: block;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 2em;
-}
 @media (min-width: 768px) {
     header .container {
-        padding-top: 200px;
+        padding-top: 100px;
         padding-bottom: 100px;
     }
     header .intro-text .name {
         font-size: 4.75em;
     }
-    header .intro-text .skills {
-        font-size: 1.75em;
-    }
 }
 
 /* HR CSS */
 
-hr.star-light,
-hr.star-primary {
+hr.logo-white,
+hr.logo-black {
     padding: 0;
     border: none;
     border-top: solid 5px;
@@ -167,8 +156,8 @@ hr.star-primary {
     max-width: 250px;
     margin: 25px auto 30px;
 }
-hr.star-light:after,
-hr.star-primary:after {
+hr.logo-white:after,
+hr.logo-black:after {
     content: "\f097";
     font-family: FontAwesome;
     display: inline-block;
@@ -177,36 +166,34 @@ hr.star-primary:after {
     font-size: 2em;
     padding: 0 0.25em;
 }
-hr.star-light {
+hr.logo-white {
     border-color: white;
 }
-hr.star-light:after {
+hr.logo-white:after {
     background-color: #ff8da8;
     color: white;
 }
-hr.star-primary {
-    border-color: #2C3E50;
+hr.logo-black {
+    border-color: #333333;
 }
-hr.star-primary:after {
+hr.logo-black:after {
     background-color: white;
-    color: #2C3E50;
-}
-.img-centered {
-    margin: 0 auto;
+    color: #333333;
 }
 
 /* SECTION CSS */
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 section h2 {
     margin: 0;
     font-size: 3em;
 }
-section.success {
+section.about {
     background-image: url("../img/nosebunk.jpg");
     color: white;
+    padding-bottom:80px;
 }
 @media (max-width: 767px) {
     section {
@@ -306,7 +293,7 @@ section.success {
     height: 75px;
     width: 1px;
     margin-left: 35px;
-    background-color: #0e141d;
+    background-color: #000000;
     transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     /* IE 9 */
@@ -319,7 +306,7 @@ section.success {
 .portfolio-modal .close-modal .lr .rl {
     height: 75px;
     width: 1px;
-    background-color: #0e141d;
+    background-color: #000000;
     transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     /* IE 9 */
@@ -332,6 +319,12 @@ section.success {
 .portfolio-modal .modal-backdrop {
     opacity: 0;
     display: none;
+}
+
+/* IMG CSS */
+
+.img-centered {
+    margin: 0 auto;
 }
 
 /* FORM CSS */
@@ -406,12 +399,11 @@ footer .footer-col {
 }
 footer .footer-below {
     padding: 25px 0;
-    background-color: #0e141d;
+    background-color: #000000;
     color: #ffffff;
-!important
 }
 
-/* BUTTON CSS */
+/* SOCIAL BUTTONS CSS */
 
 .btn-outline {
     color: white;
@@ -425,94 +417,11 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: #409abc;
+    color: #ff8da8;
     background: white;
     border: solid 2px white;
 }
-.btn-primary {
-    color: white;
-    background-color: #2C3E50;
-    border-color: #2C3E50;
-    font-weight: 700;
-}
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active,
-.open .dropdown-toggle.btn-primary {
-    color: white;
-    background-color: #1a242f;
-    border-color: #161f29;
-}
-.btn-primary:active,
-.btn-primary.active,
-.open .dropdown-toggle.btn-primary {
-    background-image: none;
-}
-.btn-primary.disabled,
-.btn-primary[disabled],
-fieldset[disabled] .btn-primary,
-.btn-primary.disabled:hover,
-.btn-primary[disabled]:hover,
-fieldset[disabled] .btn-primary:hover,
-.btn-primary.disabled:focus,
-.btn-primary[disabled]:focus,
-fieldset[disabled] .btn-primary:focus,
-.btn-primary.disabled:active,
-.btn-primary[disabled]:active,
-fieldset[disabled] .btn-primary:active,
-.btn-primary.disabled.active,
-.btn-primary[disabled].active,
-fieldset[disabled] .btn-primary.active {
-    background-color: #2C3E50;
-    border-color: #2C3E50;
-}
-.btn-primary .badge {
-    color: #2C3E50;
-    background-color: white;
-}
-.btn-default {
-    color: white;
-    background-color: #2a4b7f;
-    border-color: #2a4b7f;
-    font-weight: 700;
-}
-.btn-default:hover,
-.btn-default:focus,
-.btn-default:active,
-.btn-default.active,
-.open .dropdown-toggle.btn-default {
-    color: white;
-    background-color: #2a4b7f;
-    border-color: #2a4b7f;
-}
-.btn-default:active,
-.btn-default.active,
-.open .dropdown-toggle.btn-default {
-    background-image: none;
-}
-.btn-default.disabled,
-.btn-default[disabled],
-fieldset[disabled] .btn-default,
-.btn-default.disabled:hover,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default:hover,
-.btn-default.disabled:focus,
-.btn-default[disabled]:focus,
-fieldset[disabled] .btn-default:focus,
-.btn-default.disabled:active,
-.btn-default[disabled]:active,
-fieldset[disabled] .btn-default:active,
-.btn-default.disabled.active,
-.btn-default[disabled].active,
-fieldset[disabled] .btn-default.active {
-    background-color: #2a4b7f;
-    border-color: #2a4b7f;
-}
-.btn-default .badge {
-    color: #2a4b7f;
-    background-color: white;
-}
+
 .btn-social {
     display: inline-block;
     height: 50px;
@@ -523,8 +432,19 @@ fieldset[disabled] .btn-default.active {
     font-size: 20px;
     line-height: 45px;
 }
-.btn:focus,
-.btn:active,
-.btn.active {
-    outline: none;
+
+/* SEND BUTTON CSS */
+
+.btn-default {
+    color: white;
+    background-color: #2a4b7f;
+    border-color: #2a4b7f;
+    font-weight: 700;
+}
+
+.btn-default:hover {
+    color: white;
+    background-color: #222f58;
+    border-color: #222f58;
+    font-weight: 700;
 }
