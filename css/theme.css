@@ -120,8 +120,6 @@ header {
     padding-top:100px;
     padding-bottom:70px;
     height:100vh;
-    height:100%;
-    background-size: cover;
 }
 header .container {
     padding-top: 50px;
@@ -193,7 +191,7 @@ section h2 {
 section.about {
     background-image: url("../img/nosebunk.jpg");
     color: white;
-    padding-bottom:80px;
+    height:550px;
 }
 @media (max-width: 767px) {
     section {
@@ -331,6 +329,9 @@ section.about {
 
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eeeeee;
+}
+form .form-group {
+    font-size:10px;
 }
 
 /* FLOATING LABEL CSS */

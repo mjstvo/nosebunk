@@ -2,11 +2,11 @@
 include('header.html');
 ?>
 
-<!-- NAVBAR -->
+<!-- NAVIGATION -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
         <div class="container">
 
-<!-- BRAND & TOGGLE ARE GROUPED FOR BETTER MOBILE DISPLAY -->
+    <!-- Brand & Toggle are grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> MENU <i class="fa fa-bars"></i>
@@ -14,12 +14,9 @@ include('header.html');
                 <a class="navbar-brand" href="#page-top"><span class="fa fa-bookmark-o"></span>    nosebunk &reg;</a>
             </div>
 
-<!-- NAV LINKS COLLECTED FOR TOGGLING -->
+    <!-- Nav Links collected for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
                     <li class="page-scroll">
                         <a href="#portfolio">Premier</a>
                     </li>
@@ -51,7 +48,7 @@ include('header.html');
         </div>
     </header>
 
- <!-- DESIGNS SECTION -->
+ <!-- PREMIER SECTION -->
     <section class="portfolio" id="portfolio">
         <div class="container">
             <div class="row">
@@ -130,165 +127,13 @@ include('header.html');
         </div>
     </section>
 
-<!-- MODALS -->
-
-    <!-- MODAL ONE -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>NOSEBUNK &reg; PREMIER 'WAX' <br />T-SHIRT - Blue</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/tshirt2.png" class="img-responsive img-centered" alt="">
-                            <p>The first in a range of Premier T-Shirt designs from <a href="index.php"><b>NOSEBUNK &reg;</b></a>.<br /> Featuring a Blue/Pink/White colourway and the split NOSEBUNK &reg; Logo. <br /><b>Sizes S - XL.</b></p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL TWO --->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>NOSEBUNK &reg; PREMIER STRIPED <br />T-SHIRT - WHITE/NAVY</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/tshirt1.png" class="img-responsive img-centered" alt="">
-                            <p>Our personal favourite from the <a href="index.php"><b>NOSEBUNK &reg;</b></a> Premier Collection.<br /> A loose, striped Tee with a White/Navy colourway and Pink stitched NOSEBUNK &reg; Logo.<br /><b>Sizes S - XL.</b></p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL THREE --->
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>NOSEBUNK &reg; PREMIER 'STRAIGHTUP' <br />T-SHIRT - PINK</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/longtee.png" class="img-responsive img-centered" alt="">
-                            <p>Another installment in the <a href="index.php"><b>NOSEBUNK &reg; </b></a>Premier Collection. <br /><b>Sizes S - XL.</b></p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL FOUR --->
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>NOSEBUNK &reg; CLASSICS PULL-OVER HOODIE - BLACK</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/hood3.png" class="img-responsive img-centered" alt="">
-                            <p>One of our original and most prized designs is the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Classics Black/White Hood with our Italicised cross-out Logo, front and back. <br /><b>Sizes S - XL.</b></p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL FIVE --->
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>NOSEBUNK &reg; PREMIER PULL-OVER HOODIE - FADED AMBER</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/hoodie1.png" class="img-responsive img-centered" alt="">
-                            <p>The first Hood in the <a href="index.php"><b>NOSEBUNK &reg;</b></a> Premier Collection.<br /> A Faded Amber Hood with our Italicised cross-out Logo branded across the chest.<br /><b>Sizes S - XL.</b></p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL SIX --->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>NOSEBUNK &reg; PREMIER COACH JACKET - BLACK</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/coach1.png" class="img-responsive img-centered" alt="">
-                            <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo on the breast.<br /><b>Sizes S - XL.</b></p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
 <!-- ABOUT SECTION -->
     <section class="about" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2>About Us</h2><br /><br />
-                    <h5><b>NOSEBUNK &reg;</b> is a fresh new Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture.</h5>
+                    <h2 style="padding-bottom:50px; padding-top:70px;">About Us</h2>
+                    <h5><a href="index.php"><b>NOSEBUNK &reg; </b></a> is a fresh new Independant UK Clothing Brand which aims to intertwine different fashions of popular street apparel with the underground grit of modern skate culture.</h5>
                     <br />
                     <h5>We enforce a rule of faultlessness and delicacy not only in our designs but in the manufacture of all of our products,
                         and we strive to produce all of our apparel right here in the UK with the with help from local craftesmen and the very best, high quality materials available to us.</h5>
@@ -298,7 +143,7 @@ include('header.html');
     </section>
 
 <!-- CONTACT SECTION -->
-    <section id="contact">
+    <section class="contact" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -311,37 +156,37 @@ include('header.html');
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Name</label>
+                                <label>Name:</label>
                                 <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Email Address</label>
+                                <label>Email Address:</label>
                                 <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Phone Number</label>
+                                <label>Phone Number:</label>
                                 <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Message</label>
-                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <label>Message:</label>
+                                <textarea rows="3" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <br>
-                        <div id="default"></div>
+                        <div id="success"></div>
                         <div class="row">
                             <div class="form-group col-xs-12 text-center">
-                                <button type="submit" class="btn btn-default btn-lg">Send</button>
+                                <button type="submit" class="btn btn-default btn-md">Send</button>
                             </div>
                         </div>
                     </form>
@@ -357,8 +202,8 @@ include('header.html');
                 <div class="row">
                     <div class="footer-col col-md-6">
                         <h2>Est.<br /></h2>
-                        <h3 style="color: #ffdf43">- 2017 -</h3>
                         <h3 style="color:#FFFFFF;">Belfast, United Kingdom</h3>
+                        <h3 style="color: #ffdf43">- 2017 -</h3>
                     </div>
                     <div class="footer-col col-md-6">
                         <h2>Catch Us On</h2>
@@ -388,6 +233,158 @@ include('header.html');
             </div>
         </div>
     </footer>
+
+<!-- MODALS -->
+
+    <!-- Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>NOSEBUNK &reg; PREMIER 'WAX' <br />T-SHIRT - Blue</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/tshirt2.png" class="img-responsive img-centered" alt="">
+                            <p>The first in a range of Premier T-Shirt designs from <a href="index.php"><b>NOSEBUNK &reg;</b></a>.<br /> Featuring a Blue/Pink/White colourway and the split NOSEBUNK &reg; Logo. <br /><b>Sizes S - XL.</b></p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 2 --->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>NOSEBUNK &reg; PREMIER STRIPED <br />T-SHIRT - WHITE/NAVY</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/tshirt1.png" class="img-responsive img-centered" alt="">
+                            <p>Our personal favourite from the <a href="index.php"><b>NOSEBUNK &reg;</b></a> Premier Collection.<br /> A loose, striped Tee with a White/Navy colourway and Pink stitched NOSEBUNK &reg; Logo.<br /><b>Sizes S - XL.</b></p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 3 --->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>NOSEBUNK &reg; PREMIER 'STRAIGHTUP' <br />T-SHIRT - PINK</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/longtee.png" class="img-responsive img-centered" alt="">
+                            <p>Another installment in the <a href="index.php"><b>NOSEBUNK &reg; </b></a>Premier Collection. <br /><b>Sizes S - XL.</b></p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 4 --->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>NOSEBUNK &reg; CLASSICS PULL-OVER HOODIE - BLACK</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/hood3.png" class="img-responsive img-centered" alt="">
+                            <p>One of our original and most prized designs is the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Classics Black/White Hood with our Italicised cross-out Logo, front and back. <br /><b>Sizes S - XL.</b></p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 5 --->
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>NOSEBUNK &reg; PREMIER PULL-OVER HOODIE - FADED AMBER</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/hoodie1.png" class="img-responsive img-centered" alt="">
+                            <p>The first Hood in the <a href="index.php"><b>NOSEBUNK &reg;</b></a> Premier Collection.<br /> A Faded Amber Hood with our Italicised cross-out Logo branded across the chest.<br /><b>Sizes S - XL.</b></p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 6 --->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>NOSEBUNK &reg; PREMIER COACH JACKET - BLACK</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/coach1.png" class="img-responsive img-centered" alt="">
+                            <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo on the breast.<br /><b>Sizes S - XL.</b></p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 <?php
 include('footer.html');
