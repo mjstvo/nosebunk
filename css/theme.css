@@ -191,7 +191,7 @@ section h2 {
 section.about {
     background-image: url("../img/nosebunk.jpg");
     color: white;
-    height:100vh;
+    height:600px;
 }
 @media (max-width: 767px) {
     section {
