@@ -208,13 +208,13 @@ include('header.html');
                         <h1 style="color: #80ffe0">CHECK IT</h1>
                         <ul class="list-inline">
                             <li>
-                                <a href="https://facebook.com/nosebunkapparel" class="btn-social btn-outline"><span class="fa fa-facebook fa-fw"></span></a>
+                                <a href="https://www.facebook.com/NOSEBUNKBELFAST/" class="btn-social btn-outline"><span class="fa fa-facebook fa-fw"></span></a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/nosebunkapparel" class="btn-social btn-outline"><span class="fa fa-twitter fa-fw"></span></a>
+                                <a href="https://twitter.com/NOSEBUNKBEFLAST" class="btn-social btn-outline"><span class="fa fa-twitter fa-fw"></span></a>
                             </li>
                             <li>
-                                <a href="https://instagram.com/nosebunkapparel" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
+                                <a href="https://instagram.com/NOSEBUNKBELFAST" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
                             </li>
                         </ul>
                     </div>
