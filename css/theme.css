@@ -1,5 +1,6 @@
 /* TEXT CSS */
 
+
 body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     overflow-x: hidden;
@@ -61,7 +62,7 @@ h5 {
     color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-    color: #ffdf43;
+    color: #80ffe0;
     outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -86,9 +87,9 @@ h5 {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-    background-color: #2a4b7f;
-    color: white;
-    border-color: #2a4b7f;
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #ffffff;
 }
 @media (min-width: 768px) {
     .navbar-custom {
@@ -116,14 +117,12 @@ h5 {
 header {
     text-align: center;
     background: #ff8da8;
-    color: #3263a0;
+    color: #80ffe0;
+    height: 100vh;
     padding-top:100px;
-    padding-bottom:70px;
-    height:100vh;
 }
 header .container {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    height:100vh;
 }
 header .intro-text .name {
     display: block;
@@ -131,12 +130,13 @@ header .intro-text .name {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2em;
-    color: #ffdf43;
+    color: #80ffe0;
 }
 @media (min-width: 768px) {
     header .container {
         padding-top: 100px;
         padding-bottom: 100px;
+        height:100vh;
     }
     header .intro-text .name {
         font-size: 4.75em;
@@ -191,8 +191,14 @@ section h2 {
 section.about {
     background-image: url("../img/nosebunk.jpg");
     color: white;
-    height:600px;
+    height:750px;
 }
+
+section.contact {
+    height:100vh;
+    margin-bottom:50px;
+}
+
 @media (max-width: 767px) {
     section {
         padding: 75px 0;
@@ -215,7 +221,7 @@ section.about {
     margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-    background: rgba(255, 223, 67, 0.9);
+    background: rgba(128, 255, 224, 0.9);
     position: absolute;
     width: 100%;
     height: 100%;
@@ -380,13 +386,13 @@ form .form-group {
     opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-    color: #ff8da8;
+    color: #80ffe0;
 }
 
 /* FOOTER CSS */
 
 footer {
-    color: #2a4b7f;
+    color: #80ffe0;
 }
 footer h3 {
     margin-bottom: 30px;
@@ -438,14 +444,14 @@ footer .footer-below {
 
 .btn-default {
     color: white;
-    background-color: #2a4b7f;
-    border-color: #2a4b7f;
+    background-color: #333333;
+    border-color: #333333;
     font-weight: 700;
 }
 
 .btn-default:hover {
     color: white;
-    background-color: #222f58;
-    border-color: #222f58;
+    background-color: #000000;
+    border-color: #000000;
     font-weight: 700;
 }
