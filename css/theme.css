@@ -196,7 +196,6 @@ section.about {
 
 section.contact {
     height:100vh;
-    margin-bottom:100px;
 }
 
 @media (max-width: 767px) {
