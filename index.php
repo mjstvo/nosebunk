@@ -54,7 +54,7 @@ include('header.html');
                 <div class="col-lg-12 text-center">
                     <h2>PREMIER COLLECTION</h2>
                     <hr class="logo-black">
-                    <h5>Introducing the 'Premier Collection', the first installment in a range of styles soon to come from <a href="index.php">NOSEBUNK &reg;</a>.</h5><br />
+                    <h5>Introducing the 'Premier Collection', the first installment in a range of styles soon to come from <a href="index.php"><b>NOSEBUNK &reg;</a></b>.</h5><br />
                 </div>
 
             </div>
