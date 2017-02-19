@@ -517,7 +517,7 @@ include('header.html');
                         <h2>NOSEBUNK &reg; PREMIER COACH JACKET - BLACK</h2>
                         <hr class="star-primary">
                         <img src="img/designs/coach1.png" class="img-responsive img-centered" alt="">
-                        <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo on the breast.<br /><b>Sizes S - XL.</b></p>
+                        <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo, front and back.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
                 </div>
