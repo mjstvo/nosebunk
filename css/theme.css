@@ -331,6 +331,24 @@ section.contact {
     margin: 0 auto;
 }
 
+.nosebunklogo {
+    transition:1s;
+}
+
+.nosebunklogo:hover {
+    transform: scale(1.2, 1.2);
+    -webkit-transform: scale(1.2,1.2);
+}
+
+.nosebunklogo2 {
+    transition:1s;
+}
+
+.nosebunklogo2:hover {
+    transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1,1.1);
+}
+
 /* FORM CSS */
 
 form .row:first-child .floating-label-form-group {

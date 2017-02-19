@@ -11,7 +11,7 @@ include('header.html');
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> MENU <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top"><img class="align-center" style="height:28px;" src="img/nosebunklogo2.png" class="img-responsive" alt=""></a>
+                <a class="nosebunklogo navbar-brand" href="#page-top"><img class="nosebunklogo align-center" style="height:28px;" src="img/nosebunklogo2.png" class="img-responsive" alt=""></a>
             </div>
 
     <!-- Nav Links collected for toggling -->
@@ -37,7 +37,7 @@ include('header.html');
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-text">
-                        <img class="align-center" style="height:300px; width:300px" src="img/nosebunklogo.png" class="img-responsive" alt="">
+                        <img class="nosebunklogo2 align-center" style="height:300px; width:300px" src="img/nosebunklogo.png" class="img-responsive" alt="">
                         <hr class="logo-white">
                         <h4><b>Street Apparel UK</b></h4>
                         <h4 style="color:#A7596D"><i>- 2017 -</i></h4><br />
