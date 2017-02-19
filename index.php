@@ -306,7 +306,7 @@ include('header.html');
                             <h2>NOSEBUNK &reg; PREMIER 'STRAIGHTUP' <br />T-SHIRT - PINK</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/longtee.png" class="img-responsive img-centered" alt="">
-                            <p>Another installment in the <a href="index.php"><b>NOSEBUNK &reg; </b></a>Premier Collection. <br /><b>Sizes S - XL.</b></p>
+                            <p>Another installment in the <a href="index.php"><b>NOSEBUNK &reg; </b></a>Premier Collection is the Pink 'Straight Up' Tee featuring our new Logo. <br /><b>Sizes S - XL.</b></p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                         </div>
                     </div>
