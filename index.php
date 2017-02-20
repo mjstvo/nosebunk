@@ -194,7 +194,7 @@ include('header.html');
                 <br />
                 <br />
                 <h5>We enforce a rule of <b>faultlessness</b> and <b>delicacy</b> not only in our designs but in the manufacture of all of our products,
-                    and we strive to produce all of our apparel <b>right here in the UK</b> with the with help from local craftesmen and the very best, <b>high quality materials</b> available to us.</h5>
+                    and we strive to produce all of our apparel <b>right here in the UK</b> with the help of local craftesmen and the very best, <b>high quality materials</b> available to us.</h5>
             </div>
         </div>
     </div>
@@ -268,7 +268,7 @@ include('header.html');
                             <a href="https://twitter.com/NOSEBUNKBEFLAST" class="btn-social btn-outline"><span class="fa fa-twitter fa-fw"></span></a>
                         </li>
                         <li>
-                            <a href="https://instagram.com/NOSEBUNKBELFAST" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
+                            <a href="https://instagram.com/nosebunk" class="btn-social btn-outline"><span class="fa fa-instagram fa-fw"></span></a>
                         </li>
                     </ul>
                 </div>
@@ -283,18 +283,21 @@ include('header.html');
     <div class="footer-below">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <h6>Copyright &copy; 2017<br />
-                            <div class="page-scroll">
-                                <a style="color:#80FFE0" href="#page-top"><b>www.nosebunk.com</b></h6></b></a>
-                            </div>
+                <div class="col-lg-12 page-scroll">
+                    <h6>
+                        Copyright &copy; 2017<br />
+                        <a href="#page-top" style="color:#80FFE0">
+                            <b>www.nosebunk.com</b>
+                        </a>
+                    </h6>
                 </div>
             </div>
         </div>
     </div>
+    </div>
 </footer>
 
-<!-- MODALS --------------------------------------------------------------------------------->
+<!-- MODALS -->
 
 <!-- CLASSICS MODALS -->
 
@@ -517,7 +520,7 @@ include('header.html');
                         <h2>NOSEBUNK &reg; PREMIER COACH JACKET - BLACK</h2>
                         <hr class="star-primary">
                         <img src="img/designs/coach1.png" class="img-responsive img-centered" alt="">
-                        <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo, front and back.<br /><b>Sizes S - XL.</b></p>
+                        <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo on the breast.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
                 </div>
