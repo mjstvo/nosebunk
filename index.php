@@ -80,7 +80,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/blacktee.png" class="img-responsive" alt="">
+                    <img style="height:360px;" src="img/designs/blacktee.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -90,7 +90,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/longtee.png" class="img-responsive" alt="">
+                    <img style="height:360px;" src="img/designs/pinktee1.png" class="img-responsive" alt="">
                 </a>
             </div>
         </div>
