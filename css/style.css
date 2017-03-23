@@ -17,7 +17,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #ff8da8;
+    color: #ff32b0;
     outline: none;
 }
 h1,
@@ -63,7 +63,7 @@ h5 { /* Body Text */
     color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-    color: #80ffe0;
+    color: #ff32b0;
     outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -117,7 +117,7 @@ h5 { /* Body Text */
 
 header {
     text-align: center;
-    background: #ff8da8;
+    background: #000000;
     color: #80ffe0;
     height: 100vh;
     padding-top:100px;

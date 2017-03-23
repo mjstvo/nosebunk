@@ -11,7 +11,7 @@ include('header.html');
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span> MENU <i class="fa fa-bars"></i>
             </button>
-            <a class="nosebunklogo navbar-brand" href="#page-top"><img class="nosebunklogo align-center" style="height:28px;" src="img/nosebunklogo2.png" class="img-responsive" alt=""></a>
+            <a class="nosebunklogo navbar-brand" href="#page-top"><img class="nosebunklogo align-center" style="height:28px;" src="../img/nosebunklogo2.png" class="img-responsive" alt=""></a>
         </div>
 
         <!-- Nav Links collected for toggling -->
@@ -40,7 +40,7 @@ include('header.html');
         <div class="row">
             <div class="col-lg-12">
                 <div class="intro-text">
-                    <img class="nosebunklogo2 align-center" style="height:300px; width:300px" src="img/nosebunklogo.png" class="img-responsive" alt="">
+                    <img class="nosebunklogo2 align-center" style="height:300px; width:300px" src="../img/nosebunklogo.png" class="img-responsive" alt="">
                     <hr class="logo-white">
                     <h4><b>Street Apparel UK</b></h4>
                     <h4 style="color:#A7596D"><i>- 2017 -</i></h4><br />
@@ -70,7 +70,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/tshirt2.png" class="img-responsive" alt="">
+                    <img src="../img/designs/tshirt2.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -80,7 +80,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img style="height:360px;" src="img/designs/blacktee.png" class="img-responsive" alt="">
+                    <img style="height:360px;" src="../img/designs/blacktee.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -90,7 +90,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img style="height:360px;" src="img/designs/pinktee1.png" class="img-responsive" alt="">
+                    <img style="height:360px;" src="../img/designs/pinktee1.png" class="img-responsive" alt="">
                 </a>
             </div>
         </div>
@@ -120,7 +120,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img style="height:360px" src="img/designs/tshirttee.png" class="img-responsive" alt="">
+                    <img style="height:360px" src="../img/designs/tshirttee.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -130,7 +130,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/tshirt1.png" class="img-responsive" alt="">
+                    <img src="../img/designs/tshirt1.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -140,7 +140,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/t100.png" class="img-responsive" alt="">
+                    <img src="../img/designs/t100.png" class="img-responsive" alt="">
                 </a>
             </div>
         </div>
@@ -153,7 +153,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/hood3.png" class="img-responsive" alt="">
+                    <img src="../img/designs/hood3.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -163,7 +163,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/shirt10.png" class="img-responsive" alt="">
+                    <img src="../img/designs/shirt10.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 designs-item">
@@ -173,7 +173,7 @@ include('header.html');
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/designs/coach1.png" class="img-responsive" alt="">
+                    <img src="../img/designs/coach1.png" class="img-responsive" alt="">
                 </a>
             </div>
         </div>
@@ -316,7 +316,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; CLASSICS 'WAX' <br />T-SHIRT - Blue</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/tshirt2.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/tshirt2.png" class="img-responsive img-centered" alt="">
                         <p>The first in a range of Premier T-Shirt designs from <a href="index.php"><b>NOSEBUNK &reg;</b></a>.<br /> Featuring a Blue/Pink/White colourway and the split NOSEBUNK &reg; Logo. <br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -341,7 +341,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; CLASSICS 'OG' <br />T-SHIRT - BLACK</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/blacktee.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/blacktee.png" class="img-responsive img-centered" alt="">
                         <p>One of <a href="index.php"><b>NOSEBUNK &reg;</b></a>'s very first Tee designs.<br /> A slim Black Tee with our tilt Logo on the breast.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -366,7 +366,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; CLASSICS 'STRAIGHTUP' <br />T-SHIRT - PINK</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/longtee.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/longtee.png" class="img-responsive img-centered" alt="">
                         <p>Another installment in the <a href="index.php"><b>NOSEBUNK &reg; </b></a>Premier Collection is the Pink 'Straight Up' Tee featuring our new Logo. <br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -394,7 +394,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; PREMIER <br />T-SHIRT - WALNUT</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/tshirttee.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/tshirttee.png" class="img-responsive img-centered" alt="">
                         <p>The first in a range of Premier T-Shirt designs from <a href="index.php"><b>NOSEBUNK &reg;</b></a>.<br /> A Walnut/Sand Tee with our new tilt Logo, front and back.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -419,7 +419,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; PREMIER STRIPED <br />T-SHIRT - WHITE/NAVY</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/tshirt1.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/tshirt1.png" class="img-responsive img-centered" alt="">
                         <p>Our personal favourite from the <a href="index.php"><b>NOSEBUNK &reg;</b></a> Premier Collection.<br /> A loose, striped Tee with a White/Navy colourway and Pink stitched NOSEBUNK &reg; Logo.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -444,7 +444,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; PREMIER STRIPED <br />T-SHIRT BLACK/WHITE</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/t100.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/t100.png" class="img-responsive img-centered" alt="">
                         <p>Another installment in the <a href="index.php"><b>NOSEBUNK &reg; </b></a>Premier Collection is the our Black/White Tee with our tilt Logo on the breast.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -469,7 +469,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; CLASSICS PULL-OVER HOODIE - BLACK</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/hood3.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/hood3.png" class="img-responsive img-centered" alt="">
                         <p>One of our original and most prized designs is the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Classics Black/White Hood with our Italicised cross-out Logo, front and back. <br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -494,7 +494,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; PREMIER 'STYLE' STRIPED BUTTON SHIRT - BLACK/WHITE</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/shirt10.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/shirt10.png" class="img-responsive img-centered" alt="">
                         <p>The first shirt in the <a href="index.php"><b>NOSEBUNK &reg;</b></a> Premier Collection.<br /> A Black/White striped button shirt with button collar.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
@@ -519,7 +519,7 @@ include('header.html');
                     <div class="modal-body">
                         <h2>NOSEBUNK &reg; PREMIER COACH JACKET - BLACK</h2>
                         <hr class="star-primary">
-                        <img src="img/designs/coach1.png" class="img-responsive img-centered" alt="">
+                        <img src="../img/designs/coach1.png" class="img-responsive img-centered" alt="">
                         <p>The first Coach Jacket in the <a href="index.php"><b> NOSEBUNK &reg;</b></a> Premier Collection. <br />A Black Coach-style Windbreaker featuring our Italicised cross-out Logo on the breast.<br /><b>Sizes S - XL.</b></p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> CLOSE</button>
                     </div>
