@@ -390,12 +390,12 @@ hr.logo-black:after {
 }
 
 .nosebunklogo {
-    transition:1s;
+    transition:2s;
 }
 
 .nosebunklogo:hover {
-    transform: scale(1.15, 1.15);
-    -webkit-transform: scale(1.15,1.15);
+    transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1,1.1);
 }
 
 .nosebunklogo2 {
@@ -531,3 +531,4 @@ footer .footer-below {
     border-color: #000000;
     font-weight: 700;
 }
+
